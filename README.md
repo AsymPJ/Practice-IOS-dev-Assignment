@@ -1,2 +1,2 @@
-# Practice-IOS-dev-AssignmentW3
+# Practice-IOS-dev-Assignments
 Solution for assignments of week 3
